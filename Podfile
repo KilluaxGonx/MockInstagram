@@ -8,6 +8,7 @@ target 'MockInstagram' do
   # Pods for MockInstagram
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   target 'MockInstagramTests' do
     inherit! :search_paths
