@@ -20,8 +20,9 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's some walkthrough of implemented user stories:
 
+https://user-images.githubusercontent.com/47136977/137972045-e82cef7c-3dee-456c-9b52-106ae1a3afc9.mp4
 
 https://user-images.githubusercontent.com/47136977/137840383-39d8eaa7-c454-4b34-98de-c9a75526f832.mp4
 
